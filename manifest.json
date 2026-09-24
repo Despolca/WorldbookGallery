@@ -1,0 +1,14 @@
+{
+    "display_name": "Worldbook Gallery (Quản lý Ảnh bìa Worldbook)",
+    "loading_order": 120,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Sầm Tham",
+    "version": "0.2.1",
+    "homePage": "https://github.com/Despolca/WorldbookGallery",
+    "hooks": {
+        "activate": "init"
+    }
+}
